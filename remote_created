@@ -1,0 +1,5 @@
+def function1():
+  print("Nice to program in python")
+  print("end of the program)
+  
+ function1()
